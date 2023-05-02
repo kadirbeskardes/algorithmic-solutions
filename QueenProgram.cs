@@ -1,6 +1,6 @@
-﻿namespace QueenProblem
+﻿namespace algorithmic_solutions
 {
-    public class Program
+    public class QueenProgram
     {
         public static void Main(string[] args)
         {
